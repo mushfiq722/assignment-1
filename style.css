@@ -4,6 +4,7 @@ body{
 .display1{
     display: flex;
     margin: 20px;
+   
 }
 .display2{
     display: flex;
@@ -104,9 +105,24 @@ p{
     border-radius: 10px;
     box-shadow:5px 5px 10px  rgb(238, 213, 213);
 }
+.join{
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.join span{
+    color: blueviolet;
+    font-size: 30px;
+
+}
 footer{
     text-align: center;
-     background-color:rgb(161, 123, 123) ;
-      margin: 0;
-      margin-bottom: 0;
+    background-color: black;
+      
+}
+.foot{
+    background-color: black;
+    padding-bottom: 30px;
+}
+.fut{
+    color: cornsilk;
 }
