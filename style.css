@@ -1,0 +1,91 @@
+.display1{
+    display: flex;
+}
+.display2{
+    display: flex;
+    padding-top: 20px;
+   background-image: url(shapes/Frame\ 57.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   margin: 0;
+}
+.display3{
+    display: flex;
+}
+.frist{
+ width: 50%;
+ 
+}
+.frist img{
+ width: 80%;
+   padding-left: 50px;
+}
+#orange{
+    color: orangered;
+    font-size: 40px;
+}
+.h1f{
+    font-family: 'Otomanopee One', sans-serif;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+p{
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'PT Serif', serif;
+    text-align: justify;
+}
+.product{
+    text-align: center;
+}
+.product p{
+    text-align: center;
+}
+#box1{
+ width: 19%;
+ padding-left: 50px;
+ padding: 10px;
+ margin: 10px 10px;
+ margin-left: 5%;
+ margin-right: 5%;
+ border-radius: 20px;
+ box-shadow:5px 5px 10px  rgb(238, 213, 213);
+
+}
+#box1 img{
+    width: 100%;
+
+}
+#box2{
+    width: 20%;
+    padding-left: 100px;
+    padding: 10px;
+    margin: 10px 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px  rgb(238, 213, 213);
+}
+#box2 img{
+    width: 100%;
+    border-radius: 20px;
+}
+#box3{
+ width: 20%;
+ padding-left: 100px;
+ padding: 10px;
+ margin: 10px 10px;
+ margin-left: 5%;
+ margin-right: 5%;
+ border-radius: 20px;
+ box-shadow:5px 5px 10px  rgb(238, 213, 213);
+
+}
+#box3 img{
+    width: 100%;
+    border-radius: 20px;
+
+}
